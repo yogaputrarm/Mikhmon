@@ -8,8 +8,8 @@
 - Yusi Eka Sonia F.	21050974040
 - Yoga Putra R.		21050974043
 
-## Deskripsi :
-Mikhmon sebagai solusi yang efektif, diperkenalkan dengan sistem voucher untuk menyederhanakan tugas manajemen hotspot. yang mencakup pengontrolan akses internet secara terpusat dan penghitungan kuota akses. Tujuan dari implementasi Mikhmon adalah memberikan kenyamanan kepada pengguna dan meningkatkan efisiensi kontrol internet bagi penyedia layanan. Dengan demikian, Mikhmon menjadi solusi yang efektif untuk mengatasi tantangan dalam manajemen hotspot berbayar, menciptakan lingkungan internet yang stabil dan terkelola dengan baik.
+## Deskripsi : 
+<h1 align=center"> Mikhmon sebagai solusi yang efektif, diperkenalkan dengan sistem voucher untuk menyederhanakan tugas manajemen hotspot. yang mencakup pengontrolan akses internet secara terpusat dan penghitungan kuota akses. Tujuan dari implementasi Mikhmon adalah memberikan kenyamanan kepada pengguna dan meningkatkan efisiensi kontrol internet bagi penyedia layanan. Dengan demikian, Mikhmon menjadi solusi yang efektif untuk mengatasi tantangan dalam manajemen hotspot berbayar, menciptakan lingkungan internet yang stabil dan terkelola dengan baik.
 
 ## Fitur :
 - pengontrol pengguanaan akses internet terpusat
