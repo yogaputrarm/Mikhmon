@@ -9,10 +9,12 @@
 - Yoga Putra R.		21050974043
 
 ## Deskripsi :
-Perkembangan pesat teknologi internet memicu inovasi penyedia layanan hotspot Wi-Fi seperti Mikrotik. Namun, hotspot berbayar, terutama di cafe atau warnet, seringkali menghadapi kompleksitas manajemen. Mikhmon hadir sebagai solusi efektif dengan sistem voucher, menyederhanakan tugas manajemen hotspot, termasuk pengontrolan akses internet secara terpusat dan penghitungan kuota akses. Tujuannya adalah memberikan kenyamanan kepada pengguna dan efisiensi kontrol internet bagi penyedia layanan. Mikhmon menjadi solusi efektif untuk mengatasi tantangan manajemen hotspot berbayar, menciptakan lingkungan internet yang stabil dan terkelola dengan baik.
+Mikhmon sebagai solusi yang efektif, diperkenalkan dengan sistem voucher untuk menyederhanakan tugas manajemen hotspot. yang mencakup pengontrolan akses internet secara terpusat dan penghitungan kuota akses. Tujuan dari implementasi Mikhmon adalah memberikan kenyamanan kepada pengguna dan meningkatkan efisiensi kontrol internet bagi penyedia layanan. Dengan demikian, Mikhmon menjadi solusi yang efektif untuk mengatasi tantangan dalam manajemen hotspot berbayar, menciptakan lingkungan internet yang stabil dan terkelola dengan baik.
 
 ## Fitur :
-- 
+- pengontrol pengguanaan akses internet terpusat
+- penghitungan kuota akses
+- menghentikan akses otomatis
 
 ## Tools
 Sistem ini dibangun menggunakan : 
