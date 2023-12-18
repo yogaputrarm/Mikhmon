@@ -9,12 +9,14 @@
 - Yoga Putra R.		21050974043
 
 ## Deskripsi : 
-<p align=center"> Mikhmon sebagai solusi yang efektif, diperkenalkan dengan sistem voucher untuk menyederhanakan tugas manajemen hotspot. yang mencakup pengontrolan akses internet secara terpusat dan penghitungan kuota akses. Tujuan dari implementasi Mikhmon adalah memberikan kenyamanan kepada pengguna dan meningkatkan efisiensi kontrol internet bagi penyedia layanan. Dengan demikian, Mikhmon menjadi solusi yang efektif untuk mengatasi tantangan dalam manajemen hotspot berbayar, menciptakan lingkungan internet yang stabil dan terkelola dengan baik.
+<p align=center"> Mikhmon merupakan aplikasi mikrotik hotspot monitor berbasis web yang berfungsi untuk membantu manajemen hotspot mikrotik. Mikhmon dapat diaktifkan saat dibutuhkan atau sesuai dengan kebutuhan. Mikhmon memerlukan sebuah webserver dan php yang dapat diinstal dan dijalankan di Windows, Linux, Android maupun Openwrt. Tujuan dari implementasi Mikhmon adalah memberikan kenyamanan kepada pengguna dan meningkatkan efisiensi kontrol internet bagi penyedia layanan. Dengan demikian, Mikhmon menjadi solusi yang efektif untuk mengatasi tantangan dalam manajemen hotspot, menciptakan lingkungan internet yang stabil dan terkelola dengan baik.
 
 ## Fitur :
-- pengontrol pengguanaan akses internet terpusat
-- penghitungan kuota akses
-- menghentikan akses otomatis
+- Generate user hotspot
+- Add, edit, remove user hotspot
+- Cetak voucher
+- Report penjualan
+- Multi router
 
 ## Tools
 Sistem ini dibangun menggunakan : 
@@ -31,8 +33,8 @@ Sistem ini dibangun menggunakan :
    - Windows OS : [Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
    - Mikhmon Server : [Mikhmon](https://laksa19.github.io/?mikhmon/v3)
 ### VM OVA
-   - Router Mikrotik : []()
-   - Windows 10 CLient : []()
+   - Router Mikrotik : [Mikrotik OS](https://drive.google.com/file/d/1Y1PJDvwJxvbyh3N9c813frzlborAUZvL/view?usp=sharing)
+   - Windows 10 CLient : [Windows 10](https://drive.google.com/file/d/13-lq4dFiwWKnCq_itW_FL05ULOZUDOwp/view?usp=sharing)
      
 ### Tahap Konfigurasi Penyimpanan Awan
 Pada tahapan konfigurasi virtual machine kami menggunakan guest os mikrotik sebagai router dan windows 10 sebagai client yang berjalan pada oracle virtual box.
